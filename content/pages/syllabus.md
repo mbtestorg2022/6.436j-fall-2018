@@ -69,11 +69,48 @@ Comprehensive, but significantly more advanced:
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Homework | 30% |
-| Midterm | 30% |
-| Final Exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be 12 equally spaced homework sets. Together with the TA's feedback, they will count for 30% of the final grade. Homework solutions will be handed out on the day that the homework is due. Late homework will be heavily discounted. The 12th homework will not be graded. Out of the remaining 11, we will only count the best 10.
 
